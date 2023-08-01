@@ -1,2 +1,4 @@
-# insurance_paradigm
-Online Companion: An Insurance Paradigm for Improving Power System Resilience via Distributed Investment
+# Online Companion: An Insurance Paradigm for Improving Power System Resilience via Distributed Investment
+# By Farhad Billimoria, Filiberto Fele, Iacopo Savelli, Thomas Morstyn, and Malcolm McCulloch
+
+This repository provides Supplementary Information for the paper "An Insurance Paradigm for Improving Power System Resilience via Distributed Investment"
